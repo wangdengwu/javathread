@@ -1,4 +1,4 @@
-package study.wdw.thread;
+package study.wdw.thread.interrupt;
 
 /**
  * 

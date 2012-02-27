@@ -1,5 +1,10 @@
-package study.wdw.thread;
+package study.wdw.thread.interrupt;
 
+/**
+ * 
+ * @author wangdengwu
+ * @since 2012-2-27
+ */
 public class JoinThread implements Runnable {
 
 	@Override

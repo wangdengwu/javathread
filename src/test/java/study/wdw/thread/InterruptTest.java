@@ -1,5 +1,8 @@
 package study.wdw.thread;
 
+import study.wdw.thread.interrupt.JoinThread;
+import study.wdw.thread.interrupt.SleepThread;
+import study.wdw.thread.interrupt.WaitThread;
 import junit.framework.TestCase;
 
 /**
